@@ -15,14 +15,16 @@ public class Util extends TestBase{
 	
 	public static void takeScreenshotOfWebpage(String filename)
 	{
-		String path = "C:\\Users\\Ganesh Kulkarni\\Desktop\\Git and GitHub\\ExtraaazRepo\\ExtraaazDemo\\ScreenShot\\";
+		String path = System.getProperty("user.dir")+"\\ScreenShot";
+		try {
 		TakesScreenshot ts = (TakesScreenshot)driver;
+		
 		File src = ts.getScreenshotAs(OutputType.FILE);
 		File des = new File(path + filename + System.currentTimeMillis()+".png");
-		try 
-		{
+		
+		
 			FileHandler.copy(src, des);
-		} 
+	}
 		catch (IOException e) 
 		{
 			e.printStackTrace();

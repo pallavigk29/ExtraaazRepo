@@ -3,7 +3,7 @@
 <suite name="Suite">
 	<listeners>
 		<listener class-name="com.ExtraaazDemo.Utility.ListenerSetup"/>
-		<listener class-name="com.ExtraaazDemo.Utility.ExtentReporterNG"/>
+		<listener class-name="com.ExtraaazDemo.Utility.ExtentRepoterNG"/>
 	</listeners>
   <test thread-count="5" name="Test">
     <classes>
