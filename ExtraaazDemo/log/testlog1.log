@@ -106,3 +106,33 @@
 2023-11-23 19:35:03,851 [main] INFO Extraaaz Demo Framework - Framework Execution Ended
 2023-11-23 19:39:18,605 [main] INFO Extraaaz Demo Framework - Framework Execution Started
 2023-11-23 19:39:25,350 [main] INFO Extraaaz Demo Framework - Framework Execution Ended
+2023-11-23 20:38:44,912 [main] INFO Extraaaz Demo Framework - Framework Execution Started
+2023-11-23 20:38:52,252 [main] INFO Extraaaz Demo Framework - Framework Execution Ended
+2023-11-23 20:39:12,727 [main] INFO Extraaaz Demo Framework - Framework Execution Started
+2023-11-23 20:39:26,535 [main] INFO Extraaaz Demo Framework - Framework Execution Ended
+2023-11-23 20:40:59,353 [main] INFO Extraaaz Demo Framework - Framework Execution Started
+2023-11-23 20:41:08,514 [main] INFO Extraaaz Demo Framework - Framework Execution Ended
+2023-11-23 20:43:28,714 [main] INFO Extraaaz Demo Framework - Framework Execution Started
+2023-11-23 20:43:30,229 [main] INFO Extraaaz Demo Framework - Test case execution started:-loginwithInValidCred
+2023-11-23 20:43:34,137 [main] INFO Extraaaz Demo Framework - Test case execution completed:-loginwithInValidCred
+2023-11-23 20:43:35,140 [main] INFO Extraaaz Demo Framework - Test case execution started:-loginwithValidCred
+2023-11-23 20:43:40,593 [main] INFO Extraaaz Demo Framework - Test case execution completed:-loginwithValidCred
+2023-11-23 20:43:41,891 [main] INFO Extraaaz Demo Framework - Test case execution started:-registerUsingCredientials
+2023-11-23 20:43:47,121 [main] INFO Extraaaz Demo Framework - Test case execution Failed:-registerUsingCredientials
+2023-11-23 20:43:47,125 [main] INFO Extraaaz Demo Framework - Framework Execution Ended
+2023-11-23 20:47:34,545 [main] INFO Extraaaz Demo Framework - Framework Execution Started
+2023-11-23 20:47:37,195 [main] INFO Extraaaz Demo Framework - Test case execution started:-loginwithInValidCred
+2023-11-23 20:47:41,474 [main] INFO Extraaaz Demo Framework - Test case execution completed:-loginwithInValidCred
+2023-11-23 20:47:42,725 [main] INFO Extraaaz Demo Framework - Test case execution started:-loginwithValidCred
+2023-11-23 20:47:48,635 [main] INFO Extraaaz Demo Framework - Test case execution completed:-loginwithValidCred
+2023-11-23 20:47:49,914 [main] INFO Extraaaz Demo Framework - Test case execution started:-registerUsingCredientials
+2023-11-23 20:47:55,215 [main] INFO Extraaaz Demo Framework - Test case execution Failed:-registerUsingCredientials
+2023-11-23 20:47:55,297 [main] INFO Extraaaz Demo Framework - Framework Execution Ended
+2023-11-23 20:51:27,083 [main] INFO Extraaaz Demo Framework - Framework Execution Started
+2023-11-23 20:51:28,561 [main] INFO Extraaaz Demo Framework - Test case execution started:-loginwithInValidCred
+2023-11-23 20:51:32,912 [main] INFO Extraaaz Demo Framework - Test case execution completed:-loginwithInValidCred
+2023-11-23 20:51:34,007 [main] INFO Extraaaz Demo Framework - Test case execution started:-loginwithValidCred
+2023-11-23 20:51:39,858 [main] INFO Extraaaz Demo Framework - Test case execution completed:-loginwithValidCred
+2023-11-23 20:51:40,963 [main] INFO Extraaaz Demo Framework - Test case execution started:-registerUsingCredientials
+2023-11-23 20:51:46,277 [main] INFO Extraaaz Demo Framework - Test case execution Failed:-registerUsingCredientials
+2023-11-23 20:51:46,367 [main] INFO Extraaaz Demo Framework - Framework Execution Ended
